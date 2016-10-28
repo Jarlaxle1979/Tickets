@@ -1,0 +1,1 @@
+A placeholder file for the directory in whcih the database will be stored.

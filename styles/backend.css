@@ -1,0 +1,16 @@
+.dbStatus {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #FFF;
+    padding: 0.2em;
+    margin: 0.1em;
+}
+
+.email {
+    background-color: #D5D5D5;
+    margin: 1em;
+    padding: 0.1em 0.1em 0.1em 0.5em;
+}

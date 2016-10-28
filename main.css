@@ -1,0 +1,55 @@
+.site
+	{
+		background-color:#000;
+		width: 100%;
+		height: 100%
+		color:#fff;
+	}
+.mainSite
+	{
+		max-width: 100%;
+		margin-left:10%;
+		margin-right: 10%;
+	}
+.title
+	{
+		padding:10%;
+	}
+#emailSubject
+	{
+
+	}
+#emailBody
+	{
+
+	}
+.dataForm
+	{
+		float: left;
+		width:40%;
+	}
+	.dataForm form table tr td
+		{
+			padding: 0px 5px 5px 0px;
+			color: #fff;
+		}
+.formLabel
+	{
+		padding:5px 0px 0px 0px!important;
+	}
+#commentForm
+	{
+		background-color: #fff;
+		color: #000;
+		padding-left:50%x;
+		padding-right:50%x;
+		clear: both;
+	}
+.comments
+	{
+		background-color: #fff;
+		color: #000;
+		float: left;
+		padding:5px;
+		width: 40%;
+	}
